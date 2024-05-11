@@ -19,7 +19,13 @@
 😎 An enthusiast in Linux, Windows and MacOS systems. In addition to being passionate about automation and passionate about Python
 
  </div>
- 
+ <div align="center"> 
+  <a href="mailto:davidrobert.info@gmail.com">
+    <img src="<div align="center"> 
+  <a href="mailto:davidrobert.info@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
 <div align="center"> 
   <a href="mailto:davidrobert.info@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" />
