@@ -61,11 +61,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/davidroberrt/davidroberrt/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/davidroberrt/davidroberrt/tree/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/davidroberrt/davidroberrt/manual-run-output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/davidroberrt/davidroberrt/tree/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"
   />
   <img
     alt="github contribution grid snake animation"
