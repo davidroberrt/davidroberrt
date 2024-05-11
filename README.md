@@ -59,8 +59,6 @@
 
 <br/>
 
-![snake svg](https://github.com/davidroberrt/davidroberrt/blob/manual-run-output/github-contribution-grid-snake-dark.svg)
-![snake svg](https://github.com/davidroberrt/davidroberrt/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source
@@ -69,7 +67,7 @@
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/davidroberrt/davidroberrt/manual-run-outputt/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
