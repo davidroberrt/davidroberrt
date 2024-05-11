@@ -1,4 +1,4 @@
-# Nome da Actions:  
+/;# Nome da Actions:  
 name: Snake Game
 
 # Controlador do tempo que sera feito a atualização dos arquivos.
@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v2
 
     # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@master
+      - uses: davidroberrt/snk
         id: snake-gif
         with:
           github_user_name: davidroberrt #Seu usuario
