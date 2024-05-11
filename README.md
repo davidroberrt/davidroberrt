@@ -59,5 +59,4 @@
 
 <br/>
 
-![snake gif](https://github.com/davidroberrt/davidroberrt/blob/output/github-contribution-grid-snake-dark.svg)
-dist/docker/github-contribution-grid-snake-dark.svg?palette=github-dark
+![snake gif](https://github.com/davidroberrt/davidroberrt/blob/manual-run-output/github-contribution-grid-snake-dark.svg)
