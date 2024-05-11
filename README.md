@@ -51,7 +51,7 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=Davidroberrt&theme=hacker&hide_border=true&date_format=j%2Fn%5B%2FY%5D&fire=00FF40&ring=FFFFFF&currStreakNum=04EB93&sideNums=FFFFFF&currStreakLabel=00FF9D&background=45%2C00B9EB00%2C00EB1600&stroke=00FF9D&sideLabels=EBEBEB&dates=00EB33)](https://git.io/streak-stats" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=davidroberrt&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidroberrt&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidroberrt&hide_progress=true" alt="top langs" />
 </div>
 
 <br/><br/>
