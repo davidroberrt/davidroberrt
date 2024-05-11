@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/davidrobertt" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank" />
   </a>
     <a href="https://www.instagram.com/davidrobertt" target="_blank">
     <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank" />
