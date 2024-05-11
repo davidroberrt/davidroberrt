@@ -47,7 +47,6 @@
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<(=&=%=ground=45%2C00B9EB00%&=00FF9D&sideLabels=EBEBEB&d
 <div align=center>
   [![GitHub Streak]()]
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=Davidroberrt&theme=hacker&hide_border=true&date_format=j%2Fn%5B%2FY%5D&fire=00FF40&ring=FFFFFF&currStreakNum=04EB93&sideNums=FFFFFF&currStreakLabel=00FF9D&background=45%2C00B9EB00%2C00EB1600&stroke=00FF9D&sideLabels=EBEBEB&dates=00EB33)](https://git.io/streak-stats" alt="streak stats"/>
