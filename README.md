@@ -17,7 +17,7 @@
 💬 Ask me about **Linux, Windows, MacOS System, Anything [here](https://github.com/davidroberrt/davidroberrt)**
 
 😎 An enthusiast in Linux, Windows and MacOS systems. In addition to being passionate about automation and passionate about Python
-
+<br/>
 
 <div align="center"> 
   <a href="mailto:davidrobert.info@gmail.com">
