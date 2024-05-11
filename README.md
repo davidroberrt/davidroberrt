@@ -69,6 +69,7 @@
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/davidroberrt/davidroberrt/manual-run-output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/davidroberrt/davidroberrt/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"
   />
 </picture>
+only-svg/github-contribution-grid-snake-dark.svg
