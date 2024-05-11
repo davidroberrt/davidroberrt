@@ -22,13 +22,13 @@
  
 <div align="center"> 
   <a href="mailto:davidrobert.info@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-blackstyle=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/davidrobertt" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
     <a href="https://www.instagram.com/davidrobertt" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-grey?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank" />
+    <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank" />
   </a>
 </div>
 
