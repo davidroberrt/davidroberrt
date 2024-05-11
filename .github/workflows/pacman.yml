@@ -11,7 +11,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: davidroberrt/snk/svg-only@v3
         with:
           github_user_name: davidroberrt
           outputs: |
