@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=davidroberrt.visitor-badge" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Developers;+and+Recruiters+!+👋;+I'm+DAVID+ROBERT!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Developers;and+Recruiters+!+👋;+I'm+DAVID+ROBERT!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Brazil BR</h3>
@@ -45,17 +45,6 @@
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/davidroberrt/davidroberrt/blob/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
