@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/davidrobertt" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=00FFAD" target="_blank" />
   </a>
-    <a href="https://www.instagram.com/davidrobertt" target="_blank">
+    <a href="https://www.instagram.com/davidroberrt" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-181818?style=for-the-badge&logo=linkedin&logoColor=00FFAD" target="_blank" />
   </a>
 </div>
