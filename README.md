@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=00FFAD" target="_blank" />
   </a>
     <a href="https://www.instagram.com/davidrobertt" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-((90deg, rgba(2,0,36,1) 0%, rgba(255,0,236,1) 0%, rgba(245,255,0,1) 100%))?style=for-the-badge&logo=instagram&logoColor=00FFAD" target="_blank" />
+    <img src="https://img.shields.io/badge/Instagram-181818?style=for-the-badge&logo=linkedin&logoColor=00FFAD" target="_blank" />
   </a>
 </div>
 
