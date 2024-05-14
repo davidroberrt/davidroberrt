@@ -18,17 +18,13 @@
 😎 An enthusiast in Linux, Windows and MacOS systems.<br>In addition to being passionate about automation and passionate about Python
 <br/>
 
-<div align="center"> 
-  <a href="mailto:davidrobert.info@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-181818?style=for-the-badge&logo=gmail&logoColor=00FFAD" />
-  </a>
-  <a href="https://www.linkedin.com/in/davidrobertt" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=00FFAD" target="_blank" />
-  </a>
-    <a href="https://www.instagram.com/davidroberrt" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-181818?style=for-the-badge&logo=linkedin&logoColor=00FFAD" target="_blank" />
-  </a>
-</div>
+[![portfolio](https://img.shields.io/badge/meu_portfolio-272727?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.github.com/davidrobertt)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidrobertt)
+[![instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davidroberrt)
+[![youtube](https://img.shields.io/badge/youtube-white?style=for-the-badge&logo=youtube&logoColor=red)](https://youtu.be/kePxRO98lEY)
+[![youtube](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidrobert.info@gmail.com)
+
+<br>
 
  <hr/>
  
