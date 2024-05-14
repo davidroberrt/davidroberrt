@@ -22,7 +22,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidrobertt)
 [![instagram](https://img.shields.io/badge/instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davidroberrt)
 [![gmail](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidrobert.info@gmail.com)
-[![youtube](https://img.shields.io/badge/youtube-white?style=for-the-badge&logo=youtube&logoColor=red)](https://youtu.be/kePxRO98lEY)
+[![youtube](https://img.shields.io/badge/youtube-F9F9F9?style=for-the-badge&logo=youtube&logoColor=red)](https://youtu.be/kePxRO98lEY)
 
 <br>
 
