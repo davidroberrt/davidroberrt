@@ -4,7 +4,7 @@
 <img src="http://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=40&duration=3000&pause=1000&color=00FFAD&center=true&vCenter=true&random=false&width=800&height=90&lines=Hello+Developers+%E2%98%95%EF%B8%8F;and+Recruiters%E2%80%A6+%F0%9F%94%8E;I%E2%80%99m+DAVID+ROBERT!++%F0%9F%9A%80;I+have+you+are+looking+for!;Contact+me!+%F0%9F%93%B2+%F0%9F%91%87%F0%9F%8F%BB" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate software developer from Brazil 🇧🇷</h3>
+<h3 align="center">Developer Python for more ten years from Brazil 🇧🇷</h3>
 
 <br/>
 
@@ -13,10 +13,9 @@
  🔭 I’m currently working on **TV Station** in TV Cabo Branco | Rede Globo at Engineering
  
  🌱 I’m currently learning **Swift, iOS Development, Java**
+<p>🔧 Contributes to innovative projects, such as <strong> AUTOEPG </strong> (IFN-50) and <strong>FORMAT SCRIPT</strong>, <br> automating processes and ensuring efficiency in television programming at <a href="www.globo.com" class="link"><strong>Rede Globo</strong></a>.</p>
 
-💬 Ask me about **Linux, Windows, MacOS System, Anything [here](https://github.com/davidroberrt/davidroberrt)**
-
-😎 An enthusiast in Linux, Windows and MacOS systems. In addition to being passionate about automation and passionate about Python
+😎 An enthusiast in Linux, Windows and MacOS systems.<br>In addition to being passionate about automation and passionate about Python
 <br/>
 
 <div align="center"> 
