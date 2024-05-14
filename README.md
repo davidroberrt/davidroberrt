@@ -38,7 +38,7 @@
 </div>
 <br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats and contributions⚡</h2>
 <div align=center>
     <img width=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidroberrt&hide_progress=true&border_radius=10&theme=dark" alt="top langs" />   
     <img width=250 src="https://github-readme-streak-stats-salesp07.vercel.app?user=Davidroberrt&theme=white&hide_border=false&border_radius=10&date_format=j%2Fn%5B%2FY%5D&fire=00FF40&ring=FFFFFF&currStreakNum=04EB93&sideNums=FFFFFF&currStreakLabel=00FF9D&background=181818&stroke=00FF9D&sideLabels=FFFFFF&dates=00EB33)](https://git.io/streak-stats" alt="streak stats"/>
