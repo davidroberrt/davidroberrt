@@ -31,9 +31,9 @@
 <h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=swift,apple,java,python,django,cpp,c,nodejs,ts,javascript,html,css,php,arduino,powershell" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,gitlab,selenium,mysql,sqlite,firebase,figma,wordpress,bootstrap,autocad,qt,gtk,opencv" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,aws,gcp,windows,linux,arch,debian,ubuntu,mint,vercel,md" /><br>
+    <img src="https://skillicons.dev/icons?i=swift,java,python,django,cpp,c,nodejs,ts,javascript,html,css,php,arduino,powershell,autocad" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,gitlab,selenium,mysql,sqlite,firebase,figma,wordpress,bootstrap,qt,gtk,opencv" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,aws,gcp,apple,windows,linux,arch,debian,ubuntu,mint,vercel,md" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,atom,sublime,pycharm,eclipse,opencv,idea,phpstorm,visualstudio" />
 </div>
 <br/>
