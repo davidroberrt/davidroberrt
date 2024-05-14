@@ -13,7 +13,7 @@
  🔭 I’m currently working on **TV Station** in TV Cabo Branco | Rede Globo at Engineering
  
  🌱 I’m currently learning **Swift, iOS Development, Java**
-<p>🔧 Contributes to innovative projects, such as <strong> AUTOEPG </strong> (IFN-50) and <strong>FORMAT SCRIPT</strong>, <br> automating processes and ensuring efficiency in television programming at <a href="www.globo.com" class="link"><strong>Rede Globo</strong></a>.</p>
+<p>🔧 Contributes to innovative projects, such as <strong> AUTOEPG </strong> (IFN-50) and <strong>FORMAT SCRIPT</strong>, <br> automating processes and ensuring efficiency in television programming at <a href="https://www.globo.com" class="link"><strong>Rede Globo</strong></a>.</p>
 
 😎 An enthusiast in Linux, Windows and MacOS systems.<br>In addition to being passionate about automation and passionate about Python
 <br/>
