@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=davidroberrt.visitor-badge" />
 
 <h1 align="center">
-<img src="http://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=40&duration=3000&pause=1000&color=0FFFAD&center=true&vCenter=true&random=false&width=800&height=90&lines=Hello+Developers+%E2%98%95%EF%B8%8F;and+Recruiters%E2%80%A6+%F0%9F%94%8E;I%E2%80%99m+DAVID+ROBERT!++%F0%9F%9A%80;I+have+you+are+looking+for!;Contact+me!+%F0%9F%93%B2+%F0%9F%91%87%F0%9F%8F%BB" alt="Typing SVG" />
+<img src="http://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=40&duration=3000&pause=1000&color=blue&center=true&vCenter=true&random=false&width=800&height=90&lines=Hello+Developers+%E2%98%95%EF%B8%8F;and+Recruiters%E2%80%A6+%F0%9F%94%8E;I%E2%80%99m+DAVID+ROBERT!++%F0%9F%9A%80;I+have+you+are+looking+for!;Contact+me!+%F0%9F%93%B2+%F0%9F%91%87%F0%9F%8F%BB" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Developer Python for more ten years from Brazil 🇧🇷</h3>
