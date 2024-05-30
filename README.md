@@ -63,7 +63,7 @@
 <img width=500 src="https://github.com/davidroberrt/davidroberrt/assets/54132069/c2f49fb5-cbff-45c0-96be-b9a615d8d5a3"/>
 
 [![github](https://img.shields.io/badge/Calculator_Nubank-272727?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/davidroberrt/calculatorNubank)
-[![github](https://img.shields.io/badge/Rede_Globo-272727?style=for-the-badge&logo=python&logoColor=white)](https://github.com/davidroberrt/GloboFormatScript-Python)
+[![github](https://img.shields.io/badge/Format_Script-272727?style=for-the-badge&logo=python&logoColor=white)](https://github.com/davidroberrt/GloboFormatScript-Python)
 [![github](https://img.shields.io/badge/EasyIMC-272727?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/davidroberrt/BMI-Calculator-IOS17)
 
 
